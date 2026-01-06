@@ -17,10 +17,10 @@ Nesta etapa, foquei em consolidar a base de lógica utilizando estruturas de con
 Seguindo o cronograma de evolução para me tornar um desenvolvedor Java completo:
 
 ### 1. Orientação a Objetos (OO)
-- [ ] Classes e Objetos
-- [ ] Encapsulamento (Getters/Setters)
-- [ ] Herança e Polimorfismo
-- [ ] Interfaces e Abstração
+- [x] Classes e Objetos
+- [x] Encapsulamento (Getters/Setters)
+- [x] Herança e Polimorfismo
+- [x] Interfaces e Abstração
 
 ### 2. Estrutura de Dados e Entrada/Saída
 - [ ] Listas Dinâmicas (`ArrayList`, `LinkedList`)

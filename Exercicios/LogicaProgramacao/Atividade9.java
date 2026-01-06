@@ -31,7 +31,7 @@ public class Atividade9 {
         System.out.println("Digite outro numero inteiro: ");
         num2 = teclado.nextInt();
 
-        // (Pulo do Gatao) Se o usuário digitar o maior primeiro, nós invertemos os valores
+        // (Pulo do Gato) Se o usuário digitar o maior primeiro, nós invertemos os valores
         if (num1 > num2) {
             int auxiliar = num1;
             num1 = num2;
