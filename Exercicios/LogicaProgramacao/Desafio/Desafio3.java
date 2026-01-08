@@ -1,4 +1,4 @@
-package Exercicios.LogicaProgramacao;
+package Exercicios.LogicaProgramacao.Desafio;
 
 import java.util.Scanner;
 

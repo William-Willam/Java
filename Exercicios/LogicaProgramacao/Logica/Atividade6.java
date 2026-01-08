@@ -1,4 +1,4 @@
-package Exercicios.LogicaProgramacao;
+package Exercicios.LogicaProgramacao.Logica;
 
 public class Atividade6 {
     public static void main(String[] args) {
