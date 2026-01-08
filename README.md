@@ -4,7 +4,7 @@ Repositório dedicado ao aprendizado da linguagem Java, cobrindo desde a lógica
 
 ---
 
-## 🚀 Desafios Concluídos (Hoje)
+## 🚀 Desafios Concluídos
 Nesta etapa, foquei em consolidar a base de lógica utilizando estruturas de controle, repetição e manipulação de dados.
 
 - [x] **01. Verificador de Paridade:** Lógica com `if/else` para classificar números (par/ímpar, positivo/negativo).
