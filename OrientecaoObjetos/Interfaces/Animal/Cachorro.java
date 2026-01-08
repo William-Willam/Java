@@ -6,7 +6,6 @@ public class Cachorro implements Animal {
 
     @Override
     public void fazerSom() {
-        // TODO Auto-generated method stub
         System.out.println("O cachorro faz: Au, Au!");
     }
     

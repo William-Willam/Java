@@ -6,7 +6,6 @@ public class Gato implements Animal {
 
     @Override
     public void fazerSom() {
-        // TODO Auto-generated method stub
         System.out.println("O gato faz: miau, miau!");
     }
     
