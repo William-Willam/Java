@@ -1,0 +1,8 @@
+2. Cálculo de Áreas (Médio - Classes Abstratas)Objetivo: 
+
+Entender a diferença entre métodos comuns e abstratos.
+
+Crie uma classe abstrata Forma com um atributo nome e um método abstrato calcularArea().
+Implemente as classes Quadrado (lado * lado) e Circulo ($\pi \cdot r^2$).
+Adicione um método comum na classe mãe chamado imprimirNome() que apenas exibe o nome da forma.
+No main, use o polimorfismo: crie um array de Forma e percorra calculando a área de cada uma.

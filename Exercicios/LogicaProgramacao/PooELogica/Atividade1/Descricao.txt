@@ -1,0 +1,7 @@
+1. Sistema de Notificações
+    Objetivo: Praticar a implementação básica de interfaces.
+    
+    Crie uma interface Mensagem com o método enviar(String texto).
+    Implemente a classe WhatsApp e Email. Cada uma deve imprimir o texto com o nome da plataforma 
+    (ex: "Enviando WhatsApp: Olá!").
+    Na Main, crie uma lista de mensagens e dispare um envio para cada uma usando um laço.
